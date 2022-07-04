@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = domingo.daniel21@gmail.com
+	name = Daniel Domingo
